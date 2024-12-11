@@ -1,0 +1,18 @@
+body {
+    font-family: system-ui;
+    background: #5cb8ee;
+    color: white;
+    text-align: center;
+
+}
+
+#content{
+    color: rgb(13, 14, 14);
+    width: 30%;
+    margin:0px auto;
+    border: 1px solid black;
+}
+
+ul{
+    text-align: left;
+}
